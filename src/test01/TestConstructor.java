@@ -2,6 +2,10 @@ package test01;
 
 import java.lang.reflect.Constructor;
 
+/**
+ * @author Administrator
+ *
+ */
 public class TestConstructor {
 
 	public static void main(String[] args) throws Exception {
